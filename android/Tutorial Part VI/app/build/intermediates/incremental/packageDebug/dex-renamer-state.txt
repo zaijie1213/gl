@@ -1,0 +1,7 @@
+#Sun Sep 25 21:12:40 CST 2016
+base.0=/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/Tutorial Part VI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2555e59d42be76b46e54d8fd0b71e2db0381dc75
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/Tutorial Part VI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_142eefc219d8eccc84ea54cacc7123c68c39379f/classes.dex
+base.1=/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/Tutorial Part VI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_142eefc219d8eccc84ea54cacc7123c68c39379f
+file.0=/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/Tutorial Part VI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2555e59d42be76b46e54d8fd0b71e2db0381dc75/classes.dex

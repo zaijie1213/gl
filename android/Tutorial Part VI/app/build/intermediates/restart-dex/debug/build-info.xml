@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="16822404551352"
+    token="-6781629184894824101"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="233" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="27" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/Tutorial Part VI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/Tutorial Part VI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="15951711990742"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/Tutorial Part VI/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="16822404551352"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/Tutorial Part VI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/Tutorial Part VI/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sun Sep 25 21:00:59 CST 2016
+1.base=/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/OpenGLESTutorial/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/OpenGLESTutorial/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+2.base=/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/OpenGLESTutorial/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/OpenGLESTutorial/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+count=4
+1.set=ANDROID_RESOURCE
+3.base=/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/OpenGLESTutorial/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/OpenGLESTutorial/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/OpenGLESTutorial/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+0.file=/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/OpenGLESTutorial/app/build/intermediates/res/resources-debug.ap_/resources.arsc

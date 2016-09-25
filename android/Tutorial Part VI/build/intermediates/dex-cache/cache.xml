@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/Tutorial Part VI/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b573b868686dfcf3b227835e4fe6612cddfd5e3">
+        <dex dex="/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/Tutorial Part VI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2555e59d42be76b46e54d8fd0b71e2db0381dc75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/Tutorial Part VI/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ed10709387aefd531788c4b979cf99a755c1c978">
+        <dex dex="/Users/huli/code/opengl/Learn-OpenGLES-Tutorials/android/Tutorial Part VI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_142eefc219d8eccc84ea54cacc7123c68c39379f/classes.dex" />
+    </item>
+
+</items>
